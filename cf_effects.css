@@ -17,7 +17,7 @@
 /* This set up the background of the site centered it, made it fixed, adn made it cover the page */
 html {
     background-image: url('cf_back1.png');
-    background-size: cover;
+    background-size: 120%;
     background-position: fixed;
     margin: auto;
 }
